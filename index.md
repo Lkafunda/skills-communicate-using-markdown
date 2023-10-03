@@ -1,5 +1,11 @@
 # Hello World! in H1
 
+## Adding code notation
+
+``` Javascript
+var myVar = "Hello, world!";
+```
+
 # h2 over here
 
 ###### six levels of headers h6
